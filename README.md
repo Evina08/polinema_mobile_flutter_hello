@@ -1,5 +1,9 @@
 # polinema_mobile_flutter
+- Nama : Evina Dinda Syawalia
+- Kelas :MI-2B
+- NIM : 1931710072
 
+![gambar 1](image/tugas.jpeg)
 A new Flutter project.
 
 ## Getting Started
